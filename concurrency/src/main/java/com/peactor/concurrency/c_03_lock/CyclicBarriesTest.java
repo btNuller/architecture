@@ -1,4 +1,4 @@
-package com.peactor.concurrency.c_02_volatile;
+package com.peactor.concurrency.c_03_lock;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
