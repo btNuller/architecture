@@ -1,4 +1,4 @@
-package com.peactor.concurrency.c_000;
+package com.peactor.concurrency.c_01_thread_sync;
 
 /**
  * @Description: 线程状态练习

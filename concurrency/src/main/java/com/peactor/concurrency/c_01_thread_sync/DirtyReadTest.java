@@ -1,4 +1,4 @@
-package com.peactor.concurrency.c_000;
+package com.peactor.concurrency.c_01_thread_sync;
 
 import java.util.concurrent.TimeUnit;
 
